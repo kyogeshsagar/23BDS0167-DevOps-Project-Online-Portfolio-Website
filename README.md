@@ -196,6 +196,15 @@ Metrics monitored include:
 - Grafana Dashboard
 
 *(Screenshots will be added after implementation.)*
+<img width="1600" height="803" alt="WhatsApp Image 2026-06-30 at 22 56 38" src="https://github.com/user-attachments/assets/1c77b851-74af-4bc2-8668-272763e00f99" />
+<img width="1600" height="813" alt="WhatsApp Image 2026-06-30 at 22 36 54" src="https://github.com/user-attachments/assets/d7582658-349f-46b7-9406-a02d32ead86d" />
+<img width="1600" height="811" alt="WhatsApp Image 2026-06-30 at 22 48 52" src="https://github.com/user-attachments/assets/0798e08c-6c59-4535-8273-e181fe14e66a" />
+<img width="1600" height="809" alt="WhatsApp Image 2026-06-30 at 23 02 15" src="https://github.com/user-attachments/assets/c8ae507d-3536-4fa1-b2af-cdf2fca5d58b" />
+<img width="1600" height="849" alt="WhatsApp Image 2026-06-30 at 22 59 00" src="https://github.com/user-attachments/assets/13bcb28b-3de4-45c8-b073-3f8acac25edd" />
+<img width="1600" height="848" alt="WhatsApp Image 2026-06-30 at 22 59 43" src="https://github.com/user-attachments/assets/a10d1666-092b-4cd3-929b-53c321d4926d" />
+<img width="1600" height="847" alt="WhatsApp Image 2026-06-30 at 22 42 07" src="https://github.com/user-attachments/assets/714ee44e-8cb8-4c30-94ce-ea4bbaa3101d" />
+
+
 
 ---
 
