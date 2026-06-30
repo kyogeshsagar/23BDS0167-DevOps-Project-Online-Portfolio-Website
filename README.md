@@ -205,6 +205,10 @@ Metrics monitored include:
 <img width="1600" height="847" alt="WhatsApp Image 2026-06-30 at 22 42 07" src="https://github.com/user-attachments/assets/714ee44e-8cb8-4c30-94ce-ea4bbaa3101d" />
 <img width="1917" height="973" alt="image" src="https://github.com/user-attachments/assets/7fe4a0bb-5c6f-4102-9c7b-b7a983dabcb0" />
 <img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/c72c2687-0082-43e3-b0ad-0e3e3c4ad28a" />
+<img width="1600" height="811" alt="image" src="https://github.com/user-attachments/assets/aea86cd3-3edf-4947-af03-9374aa48705e" />
+<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/46358a76-36a6-4e0e-b80b-c38ef2d84341" />
+<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/988d7c3b-0479-4cbd-be85-3d0a68d31b16" />
+<img width="1600" height="813" alt="image" src="https://github.com/user-attachments/assets/f0a9b0ed-4f2a-4730-b274-364c38aead08" />
 
 
 
